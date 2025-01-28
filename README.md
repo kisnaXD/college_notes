@@ -30,11 +30,11 @@ Welcome to the **Academic Notes** repository! This repository contains a collect
 
 ## About
 
-This repository is dedicated to providing concise, informative, and clear notes for students and enthusiasts in the fields mentioned above. The content will be regularly updated, and contributions are always welcome.
+I have created this repository to provide concise, informative, and clear notes for students in the fields mentioned above. The content will be regularly updated, as all of these notes were personally handwritten by me in my college time. 
 
 ## Contributing
 
-If you would like to contribute to the repository, feel free to fork the project and create a pull request with your additions or improvements. Please ensure that your notes are well-organized and include clear explanations.
+If you would like to contribute to the repository, feel free to reach out to me over my email or twitter! (@KrishnaGera4
 
 ## License
 
